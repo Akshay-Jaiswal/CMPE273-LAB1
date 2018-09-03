@@ -1,0 +1,11 @@
+Output file for LAB 1 using multithreading :
+
+Sync:
+
+Mon, 03 Sep 2018 04:47:01 GMT
+Mon, 03 Sep 2018 04:47:02 GMT
+Mon, 03 Sep 2018 04:47:03 GMT
+
+Async: 
+
+['Mon, 03 Sep 2018 05:56:31 GMT', 'Mon, 03 Sep 2018 05:56:31 GMT', 'Mon, 03 Sep 2018 05:56:31 GMT', 'Mon, 03 Sep 2018 05:56:31 GMT', 'Mon, 03 Sep 2018 05:56:31 GMT', 'Mon, 03 Sep 2018 05:56:32 GMT']
